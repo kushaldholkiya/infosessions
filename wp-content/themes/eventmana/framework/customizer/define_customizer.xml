@@ -1,0 +1,50 @@
+<customizer>
+
+	<section id="global_settings" title="Global Settings" priority="">
+
+		<setting id="logo_option" label="Logo Option" description="" type="radio" default="logo_text" sanitize_js_callback="validate_customizer" >
+			<choice value="logo_text">Logo Text</choice>
+			<choice value="logo_image">Logo Image</choice>
+		</setting>
+
+		<setting id="logo_text" label="Log Text" description="" type="text" default="My Logo"></setting>
+
+		<setting id="logo_image" label="Logo image" description="" type="image" default="framework/customizer/images/logo.png"></setting>
+
+	
+
+
+		<setting id="logo_option" label="Radio" description="" type="radio" default="1">
+			<choice value="1">Logo Text</choice>
+			<choice value="2">Logo Image</choice>
+		</setting>
+
+		<setting id="logo_option_select" label="Select" description="" type="select" default="1">
+			<choice value="1">Choice 1</choice>
+			<choice value="2">Choice 2</choice>
+		</setting>
+		
+		<setting id="logo_option_checkbox" label="Checkbox" description="" type="checkbox" default=""></setting>
+		
+		<setting id="dropdown-pages" label="Dropdow Page" description="" type="dropdown-pages" default=""></setting>
+
+		
+
+		<setting id="textarea" label="Textarea" description="" type="textarea" default="This is Default"></setting>
+
+		
+		
+		<setting id="color" label="color" description="" type="color" default="#ccc"></setting>
+
+
+		<setting id="Upload Media" label="Upload Media" description="" type="media" default=""></setting>
+
+	</section>
+
+	
+
+</customizer>
+
+
+
+	

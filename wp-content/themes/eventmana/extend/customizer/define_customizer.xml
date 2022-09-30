@@ -1,0 +1,235 @@
+<customizer>
+
+	<!-- Global Settings -->
+	<section id="cus_global_settings" title="Global Settings" priority="1">
+
+		<setting id="cus_display_spin" label="Display Loading" description="" type="select" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+
+		<setting id="cus_main_layout" label="Main Layout" description="This value can be override in config of post/page" type="select" default="right_sidebar">
+			<choice value="fullwidth">No Sidebar</choice>
+			<choice value="left_sidebar">Left sidebar</choice>
+			<choice value="right_sidebar">Right Sidebar</choice>
+		</setting>
+
+		<setting id="cus_version_layout" label="Width of site" description="This value can be override in config of post/page" type="select" default="wide">
+			<choice value="wide">Wide</choice>
+			<choice value="boxed">Boxed</choice>
+		</setting>
+
+		<setting id="cus_global_seo_desc" label="Global SEO Description" description="This value will be added into the meta tag description in header. This value can be override in config of post/page" type="textarea" default="This is seo description"></setting>
+
+		<setting id="cus_global_seo_key" label="Global SEO Keywords" description="This will be added into the meta tag keywords in header. This value can be override in config of post/page" type="textarea" default="Seo Keywords"></setting>
+
+	</section>
+
+
+	<!-- Typography Settings -->
+	<section id="cus_typography_settings" title="Typography Settings" priority="2">
+
+		
+		<setting id="cus_main_color" label="Main Color" description="" type="color" default="#ed4a43"></setting>
+		<setting id="cus_body_font" label="Body Font" description="" type="googlefont" default="Raleway"></setting>
+
+		<setting id="cus_heading_1" label="Heading Font 1" description="" type="googlefont" default="Roboto"></setting>
+		<setting id="cus_heading_2" label="Heading Font 2" description="" type="googlefont" default="Roboto Slab"></setting>
+
+		<setting id="cus_custom_font" label="Custom Font-face" description="Step 1: Insert font-face in style.css file: Refer https://css-tricks.com/snippets/css/using-font-face/.  Step 2: Insert name-font here. For example: name-font1, name-font2 then click to save customize. Step 3: Refresh page and choose font in fields: Body, Header font 1, Heading font 2" type="textarea" default=""></setting>
+
+
+
+		<setting id="cus_google_api" label="API Key" description="Update api key for google font. If you want allway update google font. Create api key: https://console.developers.google.com" type="text" default=""></setting>
+	</section>
+
+	<!-- Google Map Setting -->
+	<section id="cus_google_map_api_setting" title="Google Map Settings" priority="2">
+		<setting id="cus_google_map_api" label="Google Map API Key" description="Insert API Key for google Map. You can make Google Map API here: https://developers.google.com/maps/documentation/javascript/get-api-key" type="text" default=""></setting>
+	</section>
+
+	<!-- Header Settings -->
+	<section id="cus_header_settings" title="Header Settings" priority="3">
+
+		<setting id="cus_logo_option" label="Logo Option" description="" type="radio" default="logo_text" >
+            <choice value="logo_text">Logo Text</choice>
+            <choice value="logo_image">Logo Image</choice>
+        </setting>
+
+
+		
+		<setting id="cus_logo_icon" label="Logo icon" description="Insert font-awesome" type="text" default="fa-map-marker"></setting>
+		<setting id="cus_logo_text" label="Logo Text" description="" type="text" default="My Logo"></setting>
+
+		<setting id="cus_logo_image" label="Logo image" description="The best size: 58x58 px" type="image" default="framework/customizer/images/logo.jpg"></setting>
+
+		<setting id="cus_header_latestevent" label="Display latest event in top bar" description="" type="radio" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+		
+		<setting id="cus_header_registration" label="Display Registration in top bar" description="Register/Login link" type="radio" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+
+		<setting id="cus_register_now" label="Register Now Text" description="" type="text" default="Register Now"></setting>
+		<setting id="cus_login_text" label="Login Text" description="" type="text" default="Login"></setting>
+		<setting id="cus_welcome_text" label="Welcom Text" description="" type="text" default="Welcome"></setting>
+		<setting id="cus_logout_text" label="Logout Text" description="" type="text" default="Logout"></setting>
+
+		
+
+		<setting id="cus_header_search" label="Display search in menu" description="Search Button" type="radio" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+
+		<setting id="cus_header_submitevent_text" label="Text submit event button in menu" description="" type="text" default="SUBMIT EVENT"></setting>
+		<setting id="cus_header_submitevent" label="Link submit event in menu" description="the button is disable if the field is emplty " type="text" default="#"></setting>
+		<setting id="cus_header_submitevent_target" label="Target Submit Button menu" description="" type="radio" default="_blank">
+			<choice value="_blank">New Tab</choice>
+			<choice value="_self">Same Tab</choice>
+		</setting>
+
+
+		<setting id="cus_breadcrumbs_bg" label="Breadcrumbs Background" description="" type="image" default="assets/img/blog-post-1.jpg"></setting>
+		
+
+	</section>
+
+	<!-- Footer settings -->
+	<section id="cus_footer_settings" title="Footer Settings" priority="4">
+		<setting id="cus_footer_content" label="Social Footer settings" description="" type="textarea" default="@ Copyright 2015"></setting>
+	</section>
+
+	<!-- Sort page Settings -->
+	<section id="cus_sortpage_settings" title="Sort page Settings" priority="5">
+		<setting id="cus_sort_page" label="Insert sort page" description="" type="text" default=""></setting>
+
+		<setting id="cus_sortpage_show_pastevent" label="Show past event" description="" type="select" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+	</section>
+
+	<!-- Search page Settings -->
+	<section id="cus_search_page_settings" title="Search page Settings" priority="6">
+		
+		<setting id="cus_search_page_result" label="Show Past event" description="" type="select" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+
+	</section>
+
+	<!-- Event List page Settings -->
+	<section id="cus_list_page_settings" title="List page Settings" priority="6">
+		
+		<setting id="cus_list_page_orderby" label="Display event: Order by" description="" type="select" default="eventmana_met_event_date">
+			<choice value="eventmana_met_event_date">Start Date</choice>
+			<choice value="eventmana_met_event_end_date">End Date</choice>
+			<choice value="ID">ID</choice>
+			<choice value="title">Title</choice>
+			<choice value="modified">Modified</choice>
+			<choice value="rand">Random</choice>
+		</setting>
+		
+		<setting id="cus_list_page_order" label="Display event: Order" description="" type="select" default="DESC">
+			<choice value="DESC">DESC</choice>
+			<choice value="ASC">ASC</choice>
+		</setting>
+
+		<setting id="cus_list_page_show_pastevent" label="Show past event" description="" type="select" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+
+	</section>
+
+	<!-- Event Grid page Settings -->
+	<section id="cus_grid_page_settings" title="Grid page Settings" priority="7">
+		
+		<setting id="cus_grid_page_orderby" label="Display event: Order by" description="" type="select" default="eventmana_met_event_date">
+			<choice value="eventmana_met_event_date">Start Date</choice>
+			<choice value="eventmana_met_event_end_date">End Date</choice>
+			<choice value="ID">ID</choice>
+			<choice value="title">Title</choice>
+			<choice value="modified">Modified</choice>
+			<choice value="rand">Random</choice>
+		</setting>
+		
+		<setting id="cus_grid_page_order" label="Display event: Order" description="" type="select" default="DESC">
+			<choice value="DESC">DESC</choice>
+			<choice value="ASC">ASC</choice>
+		</setting>
+
+		<setting id="cus_grid_page_show_pastevent" label="Show past event" description="" type="select" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+
+	</section>
+
+	<!-- Event Past page Settings -->
+	<section id="cus_past_page_settings" title="Event past page Settings" priority="8">
+		
+		<setting id="cus_past_page_orderby" label="Display event: Order by" description="" type="select" default="eventmana_met_event_date">
+			<choice value="eventmana_met_event_date">Start Date</choice>
+			<choice value="eventmana_met_event_end_date">End Date</choice>
+			<choice value="ID">ID</choice>
+			<choice value="title">Title</choice>
+			<choice value="modified">Modified</choice>
+			<choice value="rand">Random</choice>
+		</setting>
+		
+		<setting id="cus_past_page_order" label="Display event: Order" description="" type="select" default="DESC">
+			<choice value="DESC">DESC</choice>
+			<choice value="ASC">ASC</choice>
+		</setting>
+
+	</section>
+
+	<!-- Up coming page Settings -->
+	<section id="cus_upcoming_page_settings" title="Event upcoming page Settings" priority="9">
+		
+		<setting id="cus_upcoming_before_day" label="Insert number: 1,2,3,4,5..." description="Event will start in x days near" type="text" default="200"></setting>
+		
+		<setting id="cus_upcoming_order" label="Order" description="" type="select" default="DESC">
+			<choice value="DESC">DESC</choice>
+			<choice value="ASC">ASC</choice>
+		</setting>
+
+	</section>
+
+	<!-- Event Category page Settings -->
+	<section id="cus_category_page_settings" title="Category page Settings" priority="9">
+		
+		<setting id="cus_cat_page_orderby" label="Display event: Order by" description="" type="select" default="eventmana_met_event_date">
+			<choice value="eventmana_met_event_date">Start Date</choice>
+			<choice value="eventmana_met_event_end_date">End Date</choice>
+			<choice value="ID">ID</choice>
+			<choice value="title">Title</choice>
+			<choice value="modified">Modified</choice>
+			<choice value="rand">Random</choice>
+		</setting>
+		
+		<setting id="cus_cat_page_order" label="Display event:  Order" description="" type="select" default="DESC">
+			<choice value="DESC">DESC</choice>
+			<choice value="ASC">ASC</choice>
+		</setting>
+
+		<setting id="cus_cat_page_show_pastevent" label="Show past event" description="" type="select" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+
+	</section>
+	
+
+	
+
+
+	
+
+</customizer>

@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://events.test
+Data file = /Users/apple/public_html/events/wp-content/themes/eventmana/demo_import/demo-content.xml
+Widget file = /Users/apple/public_html/events/wp-content/themes/eventmana/demo_import/widgets.wie
+Customizer file = /Users/apple/public_html/events/wp-content/themes/eventmana/demo_import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Recent Posts - Recent Posts - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+
+Footer 1 : 
+
+Text - About Us - Imported
+
+Footer 2 : 
+
+Text - Popular searches - Imported
+
+Footer 3 : 
+
+* Recent Tweets - Recent Tweets - Imported
+
+Footer 4 : 
+
+Social Slider - Instagram - Instagram Photos - Imported
+
+Search Sidebar Page : 
+
+Map Event - No Title - Imported
+Search Event - No Title - Imported
+
+Header top : 
+
+Text - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

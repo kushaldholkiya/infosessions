@@ -1,0 +1,124 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">eventmana_met_page_heading</custom-field>
+        <custom-field action="translate">eventmana_met_embed_media</custom-field>
+        <custom-field action="translate">eventmana_met_file_list</custom-field>
+        <custom-field action="translate">eventmana_met_show_comment</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem1_image</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem1_time</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem1_name</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem1_countdown_shortcode</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem1_button</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem2_name</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem2_time</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem2_searchform</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem2_button</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem3_image</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem3_name</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem3_time</custom-field>
+        <custom-field action="translate">eventmana_met_slideshow_tem3_button</custom-field>
+        <custom-field action="translate">eventmana_met_event_thumbnail_horizontal</custom-field>
+        <custom-field action="translate">eventmana_met_event_time</custom-field>
+        <custom-field action="translate">eventmana_met_event_dateevent_price</custom-field>
+        <custom-field action="translate">eventmana_met_event_price</custom-field>
+        <custom-field action="translate">eventmana_met_event_intro</custom-field>
+        <custom-field action="translate">eventmana_met_event_gotolocation</custom-field>
+        <custom-field action="translate">eventmana_met_event_link_gotolocation</custom-field>
+        <custom-field action="translate">eventmana_met_event_location</custom-field>
+        <custom-field action="translate">eventmana_met_event_latitude</custom-field>
+        <custom-field action="translate">eventmana_met_event_longitude</custom-field>
+        <custom-field action="translate">eventmana_met_event_title_when</custom-field>
+        <custom-field action="translate">eventmana_met_event_when_where</custom-field>
+        <custom-field action="translate">eventmana_met_event_title_organizer</custom-field>
+        <custom-field action="translate">eventmana_met_event_organizer</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_timetext</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_author</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_author_job</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_link_speaker</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_speaker</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_mail_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_facebook_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_twitter_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_linkedin_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_pinterest_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_googleplus_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_tumblr_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_instagram_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_vk_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_flickr_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_mySpace_address</custom-field>
+        <custom-field action="translate">eventmana_met_schedule_youtube_address</custom-field>
+        <custom-field action="translate">eventmana_met_event_category</custom-field>
+        <custom-field action="translate">eventmana_met_dis_breadcrumbs</custom-field>
+        <custom-field action="translate">eventmana_met_background_breadcums</custom-field>
+        <custom-field action="translate">eventmana_met_style_footer</custom-field>
+        <custom-field action="translate">eventmana_met_main_layout</custom-field>
+        <custom-field action="translate">eventmana_met_version_layout</custom-field>
+        <custom-field action="translate">eventmana_met_seo_key</custom-field>
+        <custom-field action="translate">eventmana_met_seo_desc</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">slideshow</custom-type>  
+        <custom-type translate="1">event</custom-type>       
+        <custom-type translate="1">schedule</custom-type>       
+        
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">slidegroup</taxonomy> 
+        <taxonomy translate="1">eventgroup</taxonomy>
+        <taxonomy translate="1">categories</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="my_plugins_options">
+            <key name="option_name_1" />
+            <key name="option_name_2" />
+            <key name="options_group_1">
+                <key name="sub_option_name_11" />
+                <key name="sub_option_name_12" />
+            </key>
+            <key name="options_group_2">
+                <key name="sub_option_name_21" />
+                <key name="sub_option_name_22" />
+            </key>
+        </key>
+        <key name="simple_string_option" />
+    </admin-texts>    
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>    
+        <key name="icl_language_switcher_sidebar">0</key>  
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>    
+    </language-switcher-settings>    
+</wpml-config>
+
+

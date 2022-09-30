@@ -1,0 +1,1656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eventmana v1.6.7\n"
+"POT-Creation-Date: 2016-05-08 15:17+0700\n"
+"PO-Revision-Date: 2016-05-08 15:17+0700\n"
+"Last-Translator: \n"
+"Language-Team: ovatheme <ovatheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_attr__;esc_attr_e;"
+"esc_html_x;esc_html_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:14
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:15
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:17
+msgid "Go to Homepage"
+msgstr ""
+
+#: comments.php:15
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:45
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:48 extend/metabox.php:201 extend/metabox.php:234
+#: extend/metabox.php:286
+msgid "Name"
+msgstr ""
+
+#: comments.php:49
+msgid "Email"
+msgstr ""
+
+#: comments.php:50
+msgid "Website"
+msgstr ""
+
+#: comments.php:51
+msgid "Your Comment ..."
+msgstr ""
+
+#: comments.php:54
+msgid "Submit Comment"
+msgstr ""
+
+#: content/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/define_blocks_content.php:71
+msgid " 0 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:72
+msgid " 1 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:100
+msgid "Read more"
+msgstr ""
+
+#: content/define_blocks_content.php:184
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: content/define_blocks_content.php:184
+msgid "says: "
+msgstr ""
+
+#: content/define_blocks_content.php:199
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: extend/add_js_css.php:562 extend/add_js_css.php:564
+#: extend/add_js_css.php:566
+msgid "on"
+msgstr ""
+
+#: extend/breadcrumbs.php:13 extend/breadcrumbs.php:15
+#: extend/breadcrumbs.php:37 extend/breadcrumbs.php:43
+msgid "Home"
+msgstr ""
+
+#: extend/breadcrumbs.php:17 extend/register_menu.php:21
+#: extend/register_widget.php:469 extend/register_widget.php:496
+msgid "Search"
+msgstr ""
+
+#: extend/breadcrumbs.php:19
+msgid "Category"
+msgstr ""
+
+#: extend/breadcrumbs.php:21
+msgid "Tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:23
+msgid "Archive"
+msgstr ""
+
+#: extend/breadcrumbs.php:39 extend/breadcrumbs.php:145
+msgid "Search results for"
+msgstr ""
+
+#: extend/breadcrumbs.php:100
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:103
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:105
+msgid "Archive by year"
+msgstr ""
+
+#: extend/breadcrumbs.php:147
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:151
+msgid "Articles posted by"
+msgstr ""
+
+#: extend/breadcrumbs.php:153
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: extend/metabox.php:84
+msgid "Show Page Heading"
+msgstr ""
+
+#: extend/metabox.php:94
+msgid "Show title of page"
+msgstr ""
+
+#: extend/metabox.php:95
+msgid "Allow display title of page"
+msgstr ""
+
+#: extend/metabox.php:100
+msgid "Show"
+msgstr ""
+
+#: extend/metabox.php:101
+msgid "Hide"
+msgstr ""
+
+#: extend/metabox.php:111
+msgid "Post Settings"
+msgstr ""
+
+#: extend/metabox.php:121
+msgid "Link audio or video"
+msgstr ""
+
+#: extend/metabox.php:122
+msgid "Insert link audio or video use for video/audio post-format"
+msgstr ""
+
+#: extend/metabox.php:130
+msgid "Gallery image"
+msgstr ""
+
+#: extend/metabox.php:131
+msgid "image in gallery of post format"
+msgstr ""
+
+#: extend/metabox.php:138
+msgid "Display Comment"
+msgstr ""
+
+#: extend/metabox.php:143 extend/metabox.php:619 framework/framework.php:196
+msgid "Yes"
+msgstr ""
+
+#: extend/metabox.php:144 extend/metabox.php:620 framework/framework.php:197
+msgid "No"
+msgstr ""
+
+#: extend/metabox.php:155
+msgid "Slideshow Settings"
+msgstr ""
+
+#: extend/metabox.php:164
+msgid "slideshow_tem"
+msgstr ""
+
+#: extend/metabox.php:165
+msgid "Select type template"
+msgstr ""
+
+#: extend/metabox.php:170
+msgid "Template 1: Count down"
+msgstr ""
+
+#: extend/metabox.php:171
+msgid "Template 2: Find event"
+msgstr ""
+
+#: extend/metabox.php:172
+msgid "Tempalte 3: Simple"
+msgstr ""
+
+#: extend/metabox.php:180
+msgid "Template 1 Settings"
+msgstr ""
+
+#: extend/metabox.php:188 extend/metabox.php:278
+msgid "Image"
+msgstr ""
+
+#: extend/metabox.php:194 extend/metabox.php:242 extend/metabox.php:294
+#: framework/metabox/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: extend/metabox.php:195 extend/metabox.php:243 extend/metabox.php:251
+#: extend/metabox.php:287 extend/metabox.php:295
+msgid "Insert time"
+msgstr ""
+
+#: extend/metabox.php:202 extend/metabox.php:235
+msgid "Insert Name"
+msgstr ""
+
+#: extend/metabox.php:208
+msgid "Countdown shortcode"
+msgstr ""
+
+#: extend/metabox.php:215 extend/metabox.php:258 extend/metabox.php:302
+msgid "Buttons"
+msgstr ""
+
+#: extend/metabox.php:216
+msgid "Insert code Button"
+msgstr ""
+
+#: extend/metabox.php:225
+msgid "Template 2 Settings"
+msgstr ""
+
+#: extend/metabox.php:250
+msgid "Search form shortcode"
+msgstr ""
+
+#: extend/metabox.php:259 extend/metabox.php:303
+msgid "Insert  Button"
+msgstr ""
+
+#: extend/metabox.php:269
+msgid "Template 3 Settings"
+msgstr ""
+
+#: extend/metabox.php:315
+msgid "Event Settings for filter event, event-list page, event-grid page"
+msgstr ""
+
+#: extend/metabox.php:324
+msgid "Thumbnail horizontal"
+msgstr ""
+
+#: extend/metabox.php:332
+msgid "Text to describe for time of event"
+msgstr ""
+
+#: extend/metabox.php:339
+msgid "Event start date."
+msgstr ""
+
+#: extend/metabox.php:346
+msgid "Event end date."
+msgstr ""
+
+#: extend/metabox.php:354
+msgid "Text to describe for price of event"
+msgstr ""
+
+#: extend/metabox.php:362
+msgid "Intro"
+msgstr ""
+
+#: extend/metabox.php:371
+msgid "Event Settings for map widget"
+msgstr ""
+
+#: extend/metabox.php:380
+msgid "Insert text Go to location"
+msgstr ""
+
+#: extend/metabox.php:387
+msgid "Link for Go to location"
+msgstr ""
+
+#: extend/metabox.php:394
+msgid "Location"
+msgstr ""
+
+#: extend/metabox.php:400
+msgid "Location latitude"
+msgstr ""
+
+#: extend/metabox.php:402 extend/metabox.php:409
+msgid ""
+"Open https://www.google.com/maps => Enter localtion => You will find "
+"latitude and longitude like @13.7278129,100.5330761"
+msgstr ""
+
+#: extend/metabox.php:407
+msgid "Location longitude"
+msgstr ""
+
+#: extend/metabox.php:417
+msgid "Event Settings for When & Where widget"
+msgstr ""
+
+#: extend/metabox.php:426 extend/metabox.php:449
+msgid "Title for widget"
+msgstr ""
+
+#: extend/metabox.php:432
+msgid "When & Where"
+msgstr ""
+
+#: extend/metabox.php:441
+msgid "Event Settings for Organizer widget"
+msgstr ""
+
+#: extend/metabox.php:455
+msgid "Organizer"
+msgstr ""
+
+#: extend/metabox.php:465
+msgid "Schedule Field"
+msgstr ""
+
+#: extend/metabox.php:474
+msgid "Time Text"
+msgstr ""
+
+#: extend/metabox.php:475
+msgid "You can insert time here: 08:00 - 08:45"
+msgstr ""
+
+#: extend/metabox.php:480
+msgid "Author"
+msgstr ""
+
+#: extend/metabox.php:481
+msgid "Author will speak: John Doe"
+msgstr ""
+
+#: extend/metabox.php:486
+msgid "Author Job"
+msgstr ""
+
+#: extend/metabox.php:487
+msgid "Job of author: CEO at Crown.io"
+msgstr ""
+
+#: extend/metabox.php:492
+msgid "Link thumbnail of speaker"
+msgstr ""
+
+#: extend/metabox.php:493
+msgid "Insert link for speaker"
+msgstr ""
+
+#: extend/metabox.php:498
+msgid "Info of speakers"
+msgstr ""
+
+#: extend/metabox.php:499
+msgid "Insert info of speakers"
+msgstr ""
+
+#: extend/metabox.php:505 extend/metabox.php:506
+msgid "Mail Adress"
+msgstr ""
+
+#: extend/metabox.php:511 extend/metabox.php:512
+msgid "Facebook Adress"
+msgstr ""
+
+#: extend/metabox.php:517 extend/metabox.php:518
+msgid "Twitter Adress"
+msgstr ""
+
+#: extend/metabox.php:523 extend/metabox.php:524
+msgid "Linkedin Adress"
+msgstr ""
+
+#: extend/metabox.php:529 extend/metabox.php:530
+msgid "Pinterest Adress"
+msgstr ""
+
+#: extend/metabox.php:535 extend/metabox.php:536
+msgid "Google Plus Adress"
+msgstr ""
+
+#: extend/metabox.php:541 extend/metabox.php:542
+msgid "Tumblr Adress"
+msgstr ""
+
+#: extend/metabox.php:547 extend/metabox.php:548
+msgid "Instagram Adress"
+msgstr ""
+
+#: extend/metabox.php:553 extend/metabox.php:554
+msgid "VK Adress"
+msgstr ""
+
+#: extend/metabox.php:559 extend/metabox.php:560
+msgid "Flickr Adress"
+msgstr ""
+
+#: extend/metabox.php:565 extend/metabox.php:566
+msgid "MySpace Adress"
+msgstr ""
+
+#: extend/metabox.php:571 extend/metabox.php:572
+msgid "Youtube Adress"
+msgstr ""
+
+#: extend/metabox.php:582
+msgid "Event Category Settings"
+msgstr ""
+
+#: extend/metabox.php:591
+msgid "Insert Slug of event category"
+msgstr ""
+
+#: extend/metabox.php:593
+msgid "Events >> Group >> choose slug of category"
+msgstr ""
+
+#: extend/metabox.php:605
+msgid "General Settings"
+msgstr ""
+
+#: extend/metabox.php:614
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: extend/metabox.php:627
+msgid "background for breadcrumbs"
+msgstr ""
+
+#: extend/metabox.php:635
+msgid "Select Footer"
+msgstr ""
+
+#: extend/metabox.php:640
+msgid "Social Footer"
+msgstr ""
+
+#: extend/metabox.php:641
+msgid "Menu Footer"
+msgstr ""
+
+#: extend/metabox.php:648
+msgid "Main Layout"
+msgstr ""
+
+#: extend/metabox.php:649 extend/metabox.php:664
+msgid "This value will override value in theme customizer"
+msgstr ""
+
+#: extend/metabox.php:654
+msgid "Right Sidebar"
+msgstr ""
+
+#: extend/metabox.php:655
+msgid "Left Sidebar"
+msgstr ""
+
+#: extend/metabox.php:656
+msgid "No Sidebar"
+msgstr ""
+
+#: extend/metabox.php:663
+msgid "Width of site"
+msgstr ""
+
+#: extend/metabox.php:669
+msgid "Global in customizer"
+msgstr ""
+
+#: extend/metabox.php:670
+msgid "Wide"
+msgstr ""
+
+#: extend/metabox.php:671
+msgid "Boxed"
+msgstr ""
+
+#: extend/metabox.php:678
+msgid "SEO Keywords"
+msgstr ""
+
+#: extend/metabox.php:679
+msgid ""
+"SEO keywords (optional). This value will override value in global seo "
+"keyword of theme customizer."
+msgstr ""
+
+#: extend/metabox.php:687
+msgid "SEO Description"
+msgstr ""
+
+#: extend/metabox.php:688
+msgid ""
+"SEO description (optional). This value will override value in global seo "
+"description of theme customizer."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:399
+#: extend/plugins/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:828
+#: extend/plugins/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:935
+#: extend/plugins/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:1116
+#: extend/plugins/class-tgm-plugin-activation.php:2828
+msgid "and"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3370
+#: extend/plugins/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3370
+#: extend/plugins/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: extend/register_menu.php:4
+msgid "Primary Menu"
+msgstr ""
+
+#: extend/register_menu.php:5
+msgid "Footer Menu"
+msgstr ""
+
+#: extend/register_menu.php:29
+msgid "SUBMIT EVENT"
+msgstr ""
+
+#: extend/register_widget.php:6 extend/register_widget.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: extend/register_widget.php:18
+msgid "Footer 1"
+msgstr ""
+
+#: extend/register_widget.php:29
+msgid "Footer 2"
+msgstr ""
+
+#: extend/register_widget.php:40
+msgid "Footer 3"
+msgstr ""
+
+#: extend/register_widget.php:51
+msgid "Footer 4"
+msgstr ""
+
+#: extend/register_widget.php:62
+msgid "Event list page"
+msgstr ""
+
+#: extend/register_widget.php:76
+msgid "Header top"
+msgstr ""
+
+#: extend/register_widget.php:102
+msgid "Map Event"
+msgstr ""
+
+#: extend/register_widget.php:105
+msgid "You can insert multi location"
+msgstr ""
+
+#: extend/register_widget.php:284
+msgid "Location1: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:288
+msgid "Title for location 1"
+msgstr ""
+
+#: extend/register_widget.php:294
+msgid "Location2: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:298
+msgid "Title for location 2"
+msgstr ""
+
+#: extend/register_widget.php:303
+msgid "Location3: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:307
+msgid "Title for location 3"
+msgstr ""
+
+#: extend/register_widget.php:313
+msgid "Location 4: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:317
+msgid "Title for location 4"
+msgstr ""
+
+#: extend/register_widget.php:322
+msgid "Location 5: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:326
+msgid "Title for location 5"
+msgstr ""
+
+#: extend/register_widget.php:332
+msgid "Location 6: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:336
+msgid "Title for location 6"
+msgstr ""
+
+#: extend/register_widget.php:341
+msgid "Location 7: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:345
+msgid "Title for location 7"
+msgstr ""
+
+#: extend/register_widget.php:350
+msgid "Location 8: Latitude,Longitude - like: 41.040807, 28.848071"
+msgstr ""
+
+#: extend/register_widget.php:354
+msgid "Title for location 8"
+msgstr ""
+
+#: extend/register_widget.php:359
+msgid "location"
+msgstr ""
+
+#: extend/register_widget.php:364
+msgid "class"
+msgstr ""
+
+#: extend/register_widget.php:417
+msgid "Search Event"
+msgstr ""
+
+#: extend/register_widget.php:420
+msgid "Search event"
+msgstr ""
+
+#: extend/register_widget.php:480 extend/register_widget.php:481
+msgid "All Categories"
+msgstr ""
+
+#: extend/register_widget.php:518 extend/register_widget.php:628
+msgid "Insert url of page that use event list template"
+msgstr ""
+
+#: extend/register_widget.php:555 extend/register_widget.php:558
+msgid "Search Category Footer"
+msgstr ""
+
+#: extend/register_widget.php:596 extend/register_widget.php:597
+msgid "Choose cateogry"
+msgstr ""
+
+#: framework/customizer/google_font.php:36
+msgid "Proxima-Nova-Regular"
+msgstr ""
+
+#: framework/customizer/google_font.php:37
+msgid "Proxima-Nova-Alt-Regular"
+msgstr ""
+
+#: framework/customizer/google_font.php:38
+msgid "ProximaNova-Bold"
+msgstr ""
+
+#: framework/customizer/google_font.php:39
+msgid "ProximaNova-Extrabld"
+msgstr ""
+
+#: framework/framework.php:70 framework/framework.php:71
+msgid "This is seo description"
+msgstr ""
+
+#: framework/framework.php:75 framework/framework.php:76
+msgid "Seo Keywords"
+msgstr ""
+
+#: framework/framework.php:193
+msgid "User Container to wrap content"
+msgstr ""
+
+#: framework/framework.php:201
+msgid "Background pattern color "
+msgstr ""
+
+#: framework/framework.php:206
+msgid "Text Color of Row"
+msgstr ""
+
+#: framework/metabox/example-functions.php:80
+msgid "Test Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:91
+#: framework/metabox/example-functions.php:383
+msgid "Test Text"
+msgstr ""
+
+#: framework/metabox/example-functions.php:92
+#: framework/metabox/example-functions.php:104
+#: framework/metabox/example-functions.php:112
+#: framework/metabox/example-functions.php:120
+#: framework/metabox/example-functions.php:129
+#: framework/metabox/example-functions.php:137
+#: framework/metabox/example-functions.php:152
+#: framework/metabox/example-functions.php:160
+#: framework/metabox/example-functions.php:168
+#: framework/metabox/example-functions.php:185
+#: framework/metabox/example-functions.php:194
+#: framework/metabox/example-functions.php:207
+#: framework/metabox/example-functions.php:214
+#: framework/metabox/example-functions.php:221
+#: framework/metabox/example-functions.php:235
+#: framework/metabox/example-functions.php:248
+#: framework/metabox/example-functions.php:261
+#: framework/metabox/example-functions.php:273
+#: framework/metabox/example-functions.php:282
+#: framework/metabox/example-functions.php:290
+#: framework/metabox/example-functions.php:299
+#: framework/metabox/example-functions.php:306
+#: framework/metabox/example-functions.php:320
+#: framework/metabox/example-functions.php:384
+#: framework/metabox/example-functions.php:475
+#: framework/metabox/example-functions.php:483
+#: framework/metabox/example-functions.php:490
+#: framework/metabox/example-functions.php:497
+#: framework/metabox/example-functions.php:504
+#: framework/metabox/example-functions.php:511
+#: framework/metabox/example-functions.php:518
+#: framework/metabox/example-functions.php:545
+#: framework/metabox/example-functions.php:553
+#: framework/metabox/example-functions.php:560
+#: framework/metabox/example-functions.php:597
+msgid "field description (optional)"
+msgstr ""
+
+#: framework/metabox/example-functions.php:103
+msgid "Test Text Small"
+msgstr ""
+
+#: framework/metabox/example-functions.php:111
+msgid "Test Text Medium"
+msgstr ""
+
+#: framework/metabox/example-functions.php:119
+msgid "Website URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:128
+msgid "Test Text Email"
+msgstr ""
+
+#: framework/metabox/example-functions.php:136
+msgid "Test Time"
+msgstr ""
+
+#: framework/metabox/example-functions.php:144
+#: framework/metabox/example-functions.php:145
+msgid "Time zone"
+msgstr ""
+
+#: framework/metabox/example-functions.php:151
+msgid "Test Date Picker"
+msgstr ""
+
+#: framework/metabox/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: framework/metabox/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: framework/metabox/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: framework/metabox/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: framework/metabox/example-functions.php:206
+msgid "Test Text Area"
+msgstr ""
+
+#: framework/metabox/example-functions.php:213
+msgid "Test Text Area Small"
+msgstr ""
+
+#: framework/metabox/example-functions.php:220
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: framework/metabox/example-functions.php:227
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: framework/metabox/example-functions.php:228
+msgid "This is a title description"
+msgstr ""
+
+#: framework/metabox/example-functions.php:234
+msgid "Test Select"
+msgstr ""
+
+#: framework/metabox/example-functions.php:240
+#: framework/metabox/example-functions.php:253
+#: framework/metabox/example-functions.php:265
+msgid "Option One"
+msgstr ""
+
+#: framework/metabox/example-functions.php:241
+#: framework/metabox/example-functions.php:254
+#: framework/metabox/example-functions.php:266
+msgid "Option Two"
+msgstr ""
+
+#: framework/metabox/example-functions.php:242
+#: framework/metabox/example-functions.php:255
+#: framework/metabox/example-functions.php:267
+msgid "Option Three"
+msgstr ""
+
+#: framework/metabox/example-functions.php:247
+msgid "Test Radio inline"
+msgstr ""
+
+#: framework/metabox/example-functions.php:260
+msgid "Test Radio"
+msgstr ""
+
+#: framework/metabox/example-functions.php:272
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: framework/metabox/example-functions.php:281
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: framework/metabox/example-functions.php:289
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:298
+msgid "Test Checkbox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:305
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:311
+msgid "Check One"
+msgstr ""
+
+#: framework/metabox/example-functions.php:312
+msgid "Check Two"
+msgstr ""
+
+#: framework/metabox/example-functions.php:313
+msgid "Check Three"
+msgstr ""
+
+#: framework/metabox/example-functions.php:319
+msgid "Test wysiwyg"
+msgstr ""
+
+#: framework/metabox/example-functions.php:327
+msgid "Test Image"
+msgstr ""
+
+#: framework/metabox/example-functions.php:328
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: framework/metabox/example-functions.php:334
+msgid "Multiple Files"
+msgstr ""
+
+#: framework/metabox/example-functions.php:335
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: framework/metabox/example-functions.php:342
+msgid "oEmbed"
+msgstr ""
+
+#: framework/metabox/example-functions.php:343
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: framework/metabox/example-functions.php:374
+msgid "About Page Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:403
+msgid "Repeating Field Group"
+msgstr ""
+
+#: framework/metabox/example-functions.php:411
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: framework/metabox/example-functions.php:413
+msgid "Entry {#}"
+msgstr ""
+
+#: framework/metabox/example-functions.php:414
+msgid "Add Another Entry"
+msgstr ""
+
+#: framework/metabox/example-functions.php:415
+msgid "Remove Entry"
+msgstr ""
+
+#: framework/metabox/example-functions.php:428
+msgid "Entry Title"
+msgstr ""
+
+#: framework/metabox/example-functions.php:435
+msgid "Description"
+msgstr ""
+
+#: framework/metabox/example-functions.php:436
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: framework/metabox/example-functions.php:442
+msgid "Entry Image"
+msgstr ""
+
+#: framework/metabox/example-functions.php:448
+msgid "Image Caption"
+msgstr ""
+
+#: framework/metabox/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:474
+#: framework/metabox/example-functions.php:544
+msgid "Extra Info"
+msgstr ""
+
+#: framework/metabox/example-functions.php:482
+msgid "Avatar"
+msgstr ""
+
+#: framework/metabox/example-functions.php:489
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:503
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:510
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:517
+msgid "User Field"
+msgstr ""
+
+#: framework/metabox/example-functions.php:537
+msgid "Category Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:552
+msgid "Term Image"
+msgstr ""
+
+#: framework/metabox/example-functions.php:559
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: framework/metabox/example-functions.php:581
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:596
+msgid "Site Background Color"
+msgstr ""
+
+#: framework/metabox/includes/CMB2.php:122
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: framework/metabox/includes/CMB2.php:375
+msgid "Click to toggle"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Ajax.php:65
+msgid "Please Try Again"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Ajax.php:155
+msgid "Remove Embed"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Ajax.php:159
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Field.php:1030
+msgid "Add Group"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Field.php:1031
+msgid "Remove Group"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Field.php:1053
+#: framework/metabox/includes/CMB2_Field.php:1057
+msgid "None"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:86
+#: framework/metabox/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:109
+msgid "mm/dd/yy"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:118
+#: framework/metabox/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:129
+msgid "hh:mm TT"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:137
+#: framework/metabox/includes/CMB2_Types.php:1021
+msgid "Remove Image"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:138
+#: framework/metabox/includes/CMB2_Types.php:357
+#: framework/metabox/includes/CMB2_Types.php:1040
+msgid "Remove"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:139
+#: framework/metabox/includes/CMB2_Types.php:1035
+msgid "File:"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:140
+#: framework/metabox/includes/CMB2_Types.php:1038
+msgid "Download"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:768
+#: framework/metabox/includes/CMB2_Types.php:816
+msgid "No terms"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:884
+msgid "Add or Upload Files"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:945
+msgid "Add or Upload File"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_hookup.php:120
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: framework/metabox/includes/CMB2_hookup.php:124
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#: framework/metabox/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: header.php:59
+msgid "Register Now"
+msgstr ""
+
+#: header.php:60
+msgid "Login"
+msgstr ""
+
+#: header.php:132
+msgid "Search Result"
+msgstr ""
+
+#: page.php:48 templates/blog_template.php:89
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:36
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr ""
+
+#: templates/event_grid.php:86 templates/search_event.php:189
+msgid "Search for: "
+msgstr ""
+
+#: templates/event_grid.php:87 templates/event_grid.php:92
+#: templates/event_grid.php:96 templates/event_list.php:86
+#: templates/event_past.php:85 templates/event_upcoming.php:73
+#: templates/search_event.php:190 templates/single_category.php:106
+#: templates/sort.php:157
+msgid "Total "
+msgstr ""
+
+#: templates/event_grid.php:87 templates/event_grid.php:92
+#: templates/event_grid.php:96 templates/event_list.php:86
+#: templates/event_past.php:85 templates/event_upcoming.php:73
+#: templates/search_event.php:190 templates/single_category.php:106
+#: templates/sort.php:157
+msgid " events"
+msgstr ""
+
+#: templates/event_grid.php:91
+msgid "Search for category: "
+msgstr ""
+
+#: templates/event_grid.php:107 templates/event_list.php:98
+#: templates/sort.php:169
+msgid "Sort By"
+msgstr ""
+
+#: templates/event_grid.php:108 templates/event_list.php:99
+#: templates/sort.php:170
+msgid "Sort By Date (Up)"
+msgstr ""
+
+#: templates/event_grid.php:109 templates/event_list.php:100
+#: templates/sort.php:171
+msgid "Sort By Date (Down)"
+msgstr ""
+
+#: templates/event_grid.php:110 templates/event_list.php:101
+#: templates/sort.php:172
+msgid "Upcoming Events"
+msgstr ""
+
+#: templates/event_grid.php:111 templates/event_list.php:102
+#: templates/sort.php:173
+msgid "A to Z"
+msgstr ""
+
+#: templates/event_grid.php:112 templates/event_list.php:103
+#: templates/sort.php:174
+msgid "Z to A"
+msgstr ""
+
+#: templates/event_grid.php:154 templates/event_grid.php:216
+#: templates/event_list.php:145 templates/event_list.php:207
+#: templates/event_past.php:128 templates/event_past.php:190
+#: templates/event_upcoming.php:117 templates/event_upcoming.php:179
+#: templates/search_event.php:234 templates/search_event.php:296
+#: templates/single_category.php:149 templates/single_category.php:211
+#: templates/sort.php:216 templates/sort.php:278
+msgid "Tickets &amp; details"
+msgstr ""
+
+#: templates/single_category.php:106
+msgid " - "
+msgstr ""
+
+#: templates/single_category.php:106
+msgid " category "
+msgstr ""
+
+#: templates/sort.php:319
+msgid "Not found event"
+msgstr ""

@@ -1,0 +1,35 @@
+a:3:{s:8:"template";s:9:"eventmana";s:4:"mods";a:11:{i:0;b:0;s:18:"custom_css_post_id";i:-1;s:18:"nav_menu_locations";a:2:{s:6:"footer";i:45;s:7:"primary";i:46;}s:13:"cus_sort_page";s:46:"http://demo.ovathemes.com/eventmana/sort-page/";s:18:"cus_footer_content";s:1742:"<footer class="footer">
+ 
+    <div class="footer-meta">
+ 
+        <div class="container text-center">
+ 
+            <div class="clearfix">
+ 
+                <ul class="social-line list-inline">
+ 
+                    <li data-animation="flipInY" data-animation-delay="100" class="animated flipInY visible"><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+ 
+                    <li data-animation="flipInY" data-animation-delay="200" class="animated flipInY visible"><a href="#" class="dribbble"><i class="fa fa-dribbble"></i></a></li>
+ 
+                    <li data-animation="flipInY" data-animation-delay="300" class="animated flipInY visible"><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+ 
+                    <li data-animation="flipInY" data-animation-delay="400" class="animated flipInY visible"><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
+ 
+                    <li data-animation="flipInY" data-animation-delay="500" class="animated flipInY visible"><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+ 
+                    <li data-animation="flipInY" data-animation-delay="600" class="animated flipInY visible"><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
+ 
+                    <li data-animation="flipInY" data-animation-delay="700" class="animated flipInY visible"><a href="#" class="skype"><i class="fa fa-skype"></i></a></li>
+ 
+                </ul>
+ 
+            </div>
+ 
+            <span class="copyright animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="100">© 2015 im Event — The Event Manager Theme made with passion by jThemes Studio</span>
+ 
+        </div>
+ 
+    </div>
+ 
+</footer>";s:15:"cus_logo_option";s:9:"logo_text";s:13:"cus_logo_text";s:12:"E-Management";s:27:"cus_header_submitevent_text";s:0:"";s:22:"cus_header_submitevent";s:0:"";s:23:"cus_upcoming_before_day";s:3:"190";s:18:"cus_google_map_api";s:39:"AIzaSyALw-8KDZPw976zDr6U1LvU7YgHFmDP4Iw";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}}
